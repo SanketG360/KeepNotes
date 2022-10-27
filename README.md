@@ -1,4 +1,4 @@
-# KeepNotes1
+# KeepNotes
 Keep Notes is a Android application to make keep notes to Organize your to-do, work using offline mode with SQLite storage using Java Programming Language.
 
 keep notes is the easiest way to get stuff done. Whether you’re planning a holiday, sharing a shopping list with a partner or managing multiple work projects, keep notes is here to help you tick off all your personal and professional to-dos.
